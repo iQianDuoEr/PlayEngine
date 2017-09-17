@@ -1,0 +1,180 @@
+fileFormatVersion: 2
+guid: 7db36e11580b023468e36601ec5adf98
+timeCreated: 1497858363
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: TRM_SRF
+    100002: TRM_SRF 1
+    100004: TRM_SRF 10
+    100006: TRM_SRF 11
+    100008: TRM_SRF 12
+    100010: TRM_SRF 13
+    100012: TRM_SRF 14
+    100014: TRM_SRF 15
+    100016: TRM_SRF 16
+    100018: TRM_SRF 17
+    100020: TRM_SRF 18
+    100022: TRM_SRF 19
+    100024: TRM_SRF 2
+    100026: TRM_SRF 3
+    100028: TRM_SRF 4
+    100030: TRM_SRF 5
+    100032: TRM_SRF 6
+    100034: TRM_SRF 7
+    100036: TRM_SRF 8
+    100038: TRM_SRF 9
+    100040: //RootNode
+    400000: TRM_SRF
+    400002: TRM_SRF 1
+    400004: TRM_SRF 10
+    400006: TRM_SRF 11
+    400008: TRM_SRF 12
+    400010: TRM_SRF 13
+    400012: TRM_SRF 14
+    400014: TRM_SRF 15
+    400016: TRM_SRF 16
+    400018: TRM_SRF 17
+    400020: TRM_SRF 18
+    400022: TRM_SRF 19
+    400024: TRM_SRF 2
+    400026: TRM_SRF 3
+    400028: TRM_SRF 4
+    400030: TRM_SRF 5
+    400032: TRM_SRF 6
+    400034: TRM_SRF 7
+    400036: TRM_SRF 8
+    400038: TRM_SRF 9
+    400040: //RootNode
+    2300000: TRM_SRF
+    2300002: TRM_SRF 1
+    2300004: TRM_SRF 10
+    2300006: TRM_SRF 11
+    2300008: TRM_SRF 12
+    2300010: TRM_SRF 13
+    2300012: TRM_SRF 14
+    2300014: TRM_SRF 15
+    2300016: TRM_SRF 16
+    2300018: TRM_SRF 17
+    2300020: TRM_SRF 18
+    2300022: TRM_SRF 19
+    2300024: TRM_SRF 2
+    2300026: TRM_SRF 3
+    2300028: TRM_SRF 4
+    2300030: TRM_SRF 5
+    2300032: TRM_SRF 6
+    2300034: TRM_SRF 7
+    2300036: TRM_SRF 8
+    2300038: TRM_SRF 9
+    3300000: TRM_SRF
+    3300002: TRM_SRF 1
+    3300004: TRM_SRF 10
+    3300006: TRM_SRF 11
+    3300008: TRM_SRF 12
+    3300010: TRM_SRF 13
+    3300012: TRM_SRF 14
+    3300014: TRM_SRF 15
+    3300016: TRM_SRF 16
+    3300018: TRM_SRF 17
+    3300020: TRM_SRF 18
+    3300022: TRM_SRF 19
+    3300024: TRM_SRF 2
+    3300026: TRM_SRF 3
+    3300028: TRM_SRF 4
+    3300030: TRM_SRF 5
+    3300032: TRM_SRF 6
+    3300034: TRM_SRF 7
+    3300036: TRM_SRF 8
+    3300038: TRM_SRF 9
+    4300000: TRM_SRF
+    4300002: TRM_SRF
+    4300004: TRM_SRF
+    4300006: TRM_SRF
+    4300008: TRM_SRF
+    4300010: TRM_SRF
+    4300012: TRM_SRF
+    4300014: TRM_SRF
+    4300016: TRM_SRF
+    4300018: TRM_SRF
+    4300020: TRM_SRF
+    4300022: TRM_SRF
+    4300024: TRM_SRF
+    4300026: TRM_SRF
+    4300028: TRM_SRF
+    4300030: TRM_SRF
+    4300032: TRM_SRF
+    4300034: TRM_SRF
+    4300036: TRM_SRF
+    4300038: TRM_SRF
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

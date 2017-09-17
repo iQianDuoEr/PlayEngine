@@ -1,0 +1,532 @@
+fileFormatVersion: 2
+guid: b8807da6d42b3a942b5021eca55d5070
+timeCreated: 1497758314
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: ImgChangeOne_0
+    21300002: ImgChangeOne_1
+    21300004: ImgChangeOne_2
+    21300006: ImgChangeOne_3
+    21300008: ImgChangeOne_4
+    21300010: ImgChangeOne_5
+    21300012: ImgChangeOne_6
+    21300014: ImgChangeOne_7
+    21300016: ImgChangeOne_8
+    21300018: ImgChangeOne_9
+    21300020: ImgChangeOne_10
+    21300022: ImgChangeOne_11
+    21300024: ImgChangeOne_12
+    21300026: ImgChangeOne_13
+    21300028: ImgChangeOne_14
+    21300030: ImgChangeOne_15
+    21300032: ImgChangeOne_16
+    21300034: ImgChangeOne_17
+    21300036: ImgChangeOne_18
+    21300038: ImgChangeOne_19
+    21300040: ImgChangeOne_20
+    21300042: ImgChangeOne_21
+    21300044: ImgChangeOne_22
+    21300046: ImgChangeOne_23
+    21300048: ImgChangeOne_24
+    21300050: ImgChangeOne_25
+    21300052: ImgChangeOne_26
+    21300054: ImgChangeOne_27
+    21300056: ImgChangeOne_28
+    21300058: ImgChangeOne_29
+    21300060: ImgChangeOne_30
+    21300062: ImgChangeOne_31
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 3
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 3
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 3
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ImgChangeOne_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 356.125
+        width: 185.75
+        height: 50.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ImgChangeOne_1
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 356.125
+        width: 185.75
+        height: 50.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ImgChangeOne_2
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 356.125
+        width: 185.75
+        height: 50.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ImgChangeOne_3
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 356.125
+        width: 185.75
+        height: 50.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ImgChangeOne_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 306.125
+        width: 185.75
+        height: 50.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ImgChangeOne_5
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 306.125
+        width: 185.75
+        height: 50.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ImgChangeOne_6
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 306.125
+        width: 185.75
+        height: 50.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ImgChangeOne_7
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 306.125
+        width: 185.75
+        height: 50.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ImgChangeOne_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256.125
+        width: 185.75
+        height: 50.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ImgChangeOne_9
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 256.125
+        width: 185.75
+        height: 50.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ImgChangeOne_10
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 256.125
+        width: 185.75
+        height: 50.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ImgChangeOne_11
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 256.125
+        width: 185.75
+        height: 50.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ImgChangeOne_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 206.125
+        width: 185.75
+        height: 50.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ImgChangeOne_13
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 206.125
+        width: 185.75
+        height: 50.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ImgChangeOne_14
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 206.125
+        width: 185.75
+        height: 50.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ImgChangeOne_15
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 206.125
+        width: 185.75
+        height: 50.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ImgChangeOne_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 156.125
+        width: 185.75
+        height: 50.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ImgChangeOne_17
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 156.125
+        width: 185.75
+        height: 50.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ImgChangeOne_18
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 156.125
+        width: 185.75
+        height: 50.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ImgChangeOne_19
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 156.125
+        width: 185.75
+        height: 50.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ImgChangeOne_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 106.125
+        width: 185.75
+        height: 50.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ImgChangeOne_21
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 106.125
+        width: 185.75
+        height: 50.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ImgChangeOne_22
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 106.125
+        width: 185.75
+        height: 50.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ImgChangeOne_23
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 106.125
+        width: 185.75
+        height: 50.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ImgChangeOne_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 56.125
+        width: 185.75
+        height: 50.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ImgChangeOne_25
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 56.125
+        width: 185.75
+        height: 50.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ImgChangeOne_26
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 56.125
+        width: 185.75
+        height: 50.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ImgChangeOne_27
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 56.125
+        width: 185.75
+        height: 50.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ImgChangeOne_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6.125
+        width: 185.75
+        height: 50.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ImgChangeOne_29
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 6.125
+        width: 185.75
+        height: 50.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ImgChangeOne_30
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 6.125
+        width: 185.75
+        height: 50.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ImgChangeOne_31
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 6.125
+        width: 185.75
+        height: 50.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
